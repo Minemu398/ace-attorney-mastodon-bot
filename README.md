@@ -17,7 +17,7 @@
 Clone the repository with submodules
 
 ```
-git clone --recursive https://github.com/matrix07012/ace-attorney-mastodon-bot.git
+git clone --recursive https://github.com/minemu398/ace-attorney-mastodon-bot.git
 ```
 Install dependencies of this repo and the child repo
 ``` bash
